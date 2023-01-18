@@ -1,0 +1,773 @@
+.phead{
+    font-family: sans-serif;
+    font-size: 17px;
+}
+
+.phead2{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+body > header > p{
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+header ul li{
+    list-style: none;
+    display: inline;
+}
+
+header ul li a{
+    text-decoration: none;
+    padding: 20px;
+    font-family: sans-serif;
+    color: gray
+}
+
+.History{
+    color: black;
+    font-weight: bold;
+    
+    position: relative;
+}
+
+.History::before {
+    content: "";
+    position: absolute;
+    left: 43px;
+    bottom: 10px;
+    width: 55px;
+    height: 10px;
+    transform: skew(-12deg) translateX(-50%);
+    background: red;
+    z-index: -1;
+  }
+
+  body > header > ul > li:nth-child(2) > a:hover{
+    color: black;
+    font-weight: bold;
+  }
+
+  body > header > ul > li:nth-child(3) > a:hover{
+    color: black;
+    font-weight: bold;
+  }
+
+  body > header > ul > li:nth-child(4) > a:hover{
+    color: black;
+    font-weight: bold;
+  }
+
+  body > header > ul > li:nth-child(5) > a:hover{
+    color: black;
+    font-weight: bold;
+  }
+
+
+header ul{
+    text-align: center;
+    margin-top: -50px;
+}
+
+.banner{
+    float: right;
+    margin-right: 120px;
+    margin-top: -120px;
+    
+}
+
+.mainp{
+    font-size: 70px;
+    text-align: right;
+    float: left;
+    margin-left: 150px;
+    margin-top: 270px;
+    font-family:serif;
+}
+
+.mainimg{
+    height: 850px;
+    width: 800px;
+    margin-left: 100px;
+}
+
+.mainp2{
+    margin-left: 1400px;
+    margin-top: -570px;
+    font-size: 25px;
+    line-height: 37px;
+}
+
+.mainimg2{
+    margin-left: -440px;
+    margin-top: 22px;
+    
+}
+
+.mainimg3{
+    margin-left: 1480px;
+    margin-top: -270px;
+
+}
+
+.footer{
+    height: 80px;
+    width: 1865px;
+    margin-top: 10px;
+    background-color: black;
+    margin-left: -8px;
+ 
+}
+
+.footer ul li{
+    display: inline;
+    list-style: none;
+   padding-left: 90px;
+   padding-right: 90px;
+}
+
+.footer ul li a{
+    text-decoration: none;
+    color: wheat;
+    font-family: sans-serif;
+    font-size: 20px;
+    position: absolute;
+   margin-top: 25px;
+   
+}
+
+.footer ul{
+    margin-left: 430px;
+}
+
+.index1{
+    color: black;
+    text-decoration: underline 8px solid red;
+    font-weight: bold;
+}
+
+
+body > div > ul > li:nth-child(3) > a{
+    margin-left: 25px;
+}
+
+.logo{
+    width: 65px;
+    height: 65px;
+    margin-top: -28px;
+    margin-left: 50px;
+}
+
+.logo2{
+    width: 65px;
+    height: 65px;
+    margin-top: -28px;
+    float: right;
+    margin-right: 50px;
+}
+
+.Philosophy12:hover{
+    color: black;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 20px;
+    padding: 3px;
+}
+body > div > ul > li:nth-child(2) > a{
+    font-weight: normal;
+}
+
+/* body > div > ul > li:nth-child(3) > a:hover{
+    color: black;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 20px;
+    padding: 3px;
+} */
+
+body > div > ul > li:nth-child(4) > a:hover{
+    color: black;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 20px;
+    padding: 3px;
+}
+
+.Weapons3:hover{
+    color: black;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 20px;
+    padding: 3px;
+}
+
+.Weapons13:hover{
+    color: black;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 20px;
+    padding: 3px;
+}
+
+.Weapons25:hover{
+    color: black;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 20px;
+    padding: 3px;
+}
+
+/* body > div > ul > li:nth-child(5) > a:hover{
+    color: black;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 20px;
+    padding: 3px;
+} */
+
+.Philosophy1{
+    color: black;
+    font-weight: bold;
+    
+    position: relative;
+}
+
+.Philosophy1::before {
+    content: "";
+    position: absolute;
+    left: 58px;
+    bottom: 10px;
+    width: 80px;
+    height: 10px;
+    transform: skew(-12deg) translateX(-50%);
+    background: red;
+    z-index: -1;
+  }
+
+  .History1:hover{
+    color: black;
+    font-weight: bold;
+  }
+
+.maindiv1{
+    background: url(background1.jpg);
+    background-repeat: repeat;
+    width: 1865px;
+    height: 900px;
+    margin-bottom: 62px;
+    margin-left: -8px;
+    margin-top: 180px;
+}
+
+.Index2:hover{
+    color: black;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 20px;
+}
+
+.armor{
+    height: 850px;
+    float: right;
+    width: 800px;
+    margin-top: -5px;
+}
+
+.mainh{
+    color: black;
+    font-size: 60px;
+    font-weight: bold;
+    margin-left: 180px;
+    padding-top: 120px;
+}
+
+.mainh1{
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: 110px;
+    position: absolute;
+    margin-top: 100px;
+    width: 450px;
+    line-height: 30px;
+}
+
+.circle{
+    margin-top: -50px;
+    width: 650px;
+    height: 650px;
+    background-color: red;
+    border-radius: 650px;
+    margin-left: 50px;
+}
+
+.dragon{
+    height: 100px;
+    width: 90px;
+    margin-left: 290px;
+    margin-top: -30px;
+    position: absolute;    
+}
+
+
+.historysection{
+   
+    
+    margin-top: 20px;
+}
+
+
+.historyp{
+    font-size: 55px;
+    margin-left: 120px;
+    color: red;
+}
+
+.historyp2{
+    color: gray;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 120px;
+    margin-top: -40px;
+}
+
+.historysection ul li{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 30px;
+    list-style: url(list.png);
+}
+
+.historysection ul p{
+    color: gray;
+    font-family: sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.historysection ul{
+    margin-left: 100px;
+    margin-top: 40px;
+    padding-bottom: 30px;
+}
+
+.Arts21{
+    color: black;
+    font-weight: bold;
+    
+    position: relative;
+}
+
+.Arts21::before {
+    content: "";
+    position: absolute;
+    left: 32px;
+    bottom: 10px;
+    width: 35px;
+    height: 10px;
+    transform: skew(-12deg) translateX(-50%);
+    background: red;
+    z-index: -1;
+  }
+
+  .History2:hover{
+        font-weight: bold;
+        color: black;
+  }
+
+.imgart1{
+    margin-left: 50px;
+    margin-top: 25px;
+    height: 600PX;    
+}
+
+.artcontainer{
+    width: 500px;
+    height: 650px;
+    border: 15px double rgb(139, 199, 219);
+    background: rgb(247, 124, 124);
+    margin-left: 80px;
+    margin-top: 60px;
+    padding: 20px 10px;
+}
+
+.artcontainerp{
+    margin-left: 680px;
+    width: 700px;
+    margin-top: -700px;
+    font-size: 28px;
+    text-align: left;
+    font-family: sans-serif;
+    line-height: 35px;
+}
+
+.artcontainerp::first-letter{
+
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.imgart2{
+    height: 600px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 25px;
+}
+
+.artcontainer2{
+    width: 500px;
+    height: 650px;
+    border: 15px double rgb(139, 199, 219);
+    background: rgb(247, 124, 124);
+    margin-left: 1230px;
+    margin-top: 300px;
+    padding: 20px 10px;
+}
+
+.artcontainerp2{
+    margin-left: 620px;
+    width: 600px;
+    margin-top: -700px;
+    font-size: 28px;
+    text-align: left;
+    font-family: sans-serif;
+    line-height: 40px;
+}
+
+.imgart3{
+    height: 600px;
+   width: 430px;
+    margin-left: 35px;
+    margin-top: 25px;
+}
+
+.artcontainer3{
+    width: 500px;
+    height: 650px;
+    border: 15px double rgb(139, 199, 219);
+    background: rgb(247, 124, 124);
+    margin-left: 80px;
+    margin-top: 120px;
+    padding: 20px 10px;
+}
+
+.artcontainerp3{
+    width: 600px;
+    font-size: 28px;
+    text-align: left;
+    font-family: sans-serif;
+    line-height: 40px;
+    margin-left: 680px;
+    margin-top: -700px;
+}
+
+.artcontainerp3::first-letter{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.artcontainerp2::first-letter{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Index3:hover{
+    color: black;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 20px;
+}
+
+.Philosophy3:hover{
+    color: black;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 20px;
+}
+
+.Arts1:hover{
+    color: black;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 20px;
+}
+
+.Arts2:hover{
+    color: black;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 20px;
+}
+
+.mArts1:hover{
+    color: black;
+    font-weight: bold;
+}
+
+.Weapons5{
+    color: black;
+    font-weight: bold;
+    
+    position: relative;
+}
+
+.Weapons5::before {
+    content: "";
+    position: absolute;
+    left: 52px;
+    bottom: 10px;
+    width: 70px;
+    height: 10px;
+    transform: skew(-12deg) translateX(-50%);
+    background: red;
+    z-index: -1;
+  }
+
+  .History5:hover{
+        font-weight: bold;
+        color: black;
+  }
+
+
+.weaponsmain{
+    background: radial-gradient(circle, rgba(77,23,23,1) 0%, rgba(115,13,13,1) 44%, rgba(175,7,7,1) 100%);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 200px;
+    margin-left: -20px;
+    width: 1877px;
+    
+}
+
+
+  .weaponsh{
+    position: relative;
+    font-family: sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    text-align: center;
+    margin-left: 700px;
+    width: 500px;
+    letter-spacing: 4px;
+    overflow: hidden;
+    background: linear-gradient(90deg, black, white, black);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    animation: animate 3s linear infinite;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color:rgba(255, 255, 255, 0.2);
+  }
+
+  @keyframes animate{
+    0%
+    {
+        background-position: -500%;
+    }
+    100%
+    {
+        background-position: 500%;
+    }
+  }
+
+  .katana{
+    width: 500px;
+    height: 300px;
+    border: 15px double black;
+    background-color: lightblue;
+    margin-left: 15px;
+    margin-top: 20px;
+  }
+
+  .weaponsimg{
+    background: radial-gradient(circle, rgba(121,115,115,1) 0%, rgba(117,57,57,1) 31%, rgba(19,13,13,1) 100%);
+    height: 700px;
+    margin-left: -8px;
+    width: 1865px;
+  }
+
+  .katanap{
+    width: 560px;
+    font-family:serif;
+    font-size: 20px;
+    margin-left: 20px;
+    line-height: 28px;
+    color: wheat;
+    font-weight: bold;
+  }
+
+  .katanap::first-letter{
+    font-size: 35px;
+  }
+
+  .wakizashi{
+    width: 560px;
+    height: 300px;
+    margin-left: 635px;
+    margin-top: -655px;
+    position: absolute;
+    border: 15px double black;
+    background-color: lightblue;
+  }
+
+  .tanto{
+    width: 510px;
+    height: 310px;
+    position: absolute;
+    margin-left: 1310px;
+    margin-top: -633px;
+    border: 15px double black;
+    background-color: lightblue;
+    position: absolute;
+  }
+
+  .wazikaship{
+    width: 560px;
+    font-family:serif;
+    font-size: 20px;
+    line-height: 28px;
+    color: wheat;
+    font-weight: bold;
+    margin-left: 637px;
+    margin-top: -300px;
+  }
+
+  .wazikaship::first-letter{
+    font-size: 35px;
+  }
+
+.tantop{
+    width: 560px;
+    font-family:serif;
+    font-size: 20px;
+    line-height: 28px;
+    color: wheat;
+    font-weight: bold;
+    float: right;
+    margin-top: -280px;
+}
+
+.tantop::first-letter{
+    font-size: 35px;
+}
+
+.weaponsmain2{
+    background: radial-gradient(circle, rgba(77,23,23,1) 0%, rgba(115,13,13,1) 44%, rgba(175,7,7,1) 100%);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: -20px;
+    width: 1877px;
+    
+}
+
+  .weaponsh2{
+    position: relative;
+    font-family: sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    text-align: center;
+    margin-left: 700px;
+    width: 500px;
+    letter-spacing: 4px;
+    overflow: hidden;
+    background: linear-gradient(90deg, black, white, black);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    animation: animate 3s linear infinite;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color:rgba(255, 255, 255, 0.2);
+  }
+
+  .weaponsimg2{
+    background: radial-gradient(circle, rgba(121,115,115,1) 0%, rgba(117,80,57,1) 31%, rgba(19,13,13,1) 100%);
+    height: 700px;
+    margin-left: -8px;
+    width: 1865px;
+  }
+
+
+.bow{
+    margin-left: 160px;
+    margin-top: 35px;
+    width: 440px;
+    height: 600px;
+    border: 15px double black;
+    background-color: lightblue;
+}
+
+.bowp{
+    width: 1130px;
+    font-family:serif;
+    font-size: 31px;
+    line-height: 50px;
+    color: wheat;
+    font-weight: bold;
+    margin-left: 670px;
+    margin-top: -450px;
+}
+
+.bowp::first-letter{
+    font-size: 45px;
+}
+
+.weaponsmain3{
+    background: radial-gradient(circle, rgba(77,23,23,1) 0%, rgba(115,13,13,1) 44%, rgba(175,7,7,1) 100%);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: -20px;
+    width: 1877px;
+    
+}
+
+  .weaponsh3{
+    position: relative;
+    font-family: sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    text-align: center;
+    margin-left: 700px;
+    width: 500px;
+    letter-spacing: 4px;
+    overflow: hidden;
+    background: linear-gradient(90deg, black, white, black);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    animation: animate 3s linear infinite;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color:rgba(255, 255, 255, 0.2);
+  }
+
+  .weaponsimg3{
+    background: radial-gradient(circle, rgba(121,115,115,1) 0%, rgba(117,98,57,1) 31%, rgba(19,13,13,1) 100%);
+    height: 700px;
+    margin-left: -8px;
+    width: 1865px;
+  }
+  
+  .yari{
+    margin-left: 160px;
+    margin-top: 35px;
+    width: 440px;
+    height: 600px;
+    border: 15px double black;
+    background-color: lightblue;
+  }
+
+  .yarip{
+    width: 1130px;
+    font-family:serif;
+    font-size: 31px;
+    line-height: 50px;
+    color: wheat;
+    font-weight: bold;
+    margin-left: 670px;
+    margin-top: -450px;
+  }
+
+  .yarip::first-letter{
+    font-size: 45px;
+  }
